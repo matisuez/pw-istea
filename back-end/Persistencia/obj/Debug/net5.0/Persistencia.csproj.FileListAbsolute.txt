@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Work\Studies\ISTEA\SecondYear\Programacion Web\Final exams\back-end\Persistencia\obj\Debug\net5.0\Persistencia.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\Work\Studies\ISTEA\SecondYear\Programacion Web\Final exams\back-end\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Work\Studies\ISTEA\SecondYear\Programacion Web\Final exams\back-end\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Work\Studies\ISTEA\SecondYear\Programacion Web\Final exams\back-end\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Work\Studies\ISTEA\SecondYear\Programacion Web\Final exams\back-end\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Work\Studies\ISTEA\SecondYear\Programacion Web\Final exams\back-end\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
+C:\Users\Hp\Desktop\Work\Studies\ISTEA\SecondYear\Programacion Web\Final exams\back-end\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json
+C:\Users\Hp\Desktop\Work\Studies\ISTEA\SecondYear\Programacion Web\Final exams\back-end\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\Work\Studies\ISTEA\SecondYear\Programacion Web\Final exams\back-end\Persistencia\bin\Debug\net5.0\Persistencia.dll
+C:\Users\Hp\Desktop\Work\Studies\ISTEA\SecondYear\Programacion Web\Final exams\back-end\Persistencia\bin\Debug\net5.0\ref\Persistencia.dll
+C:\Users\Hp\Desktop\Work\Studies\ISTEA\SecondYear\Programacion Web\Final exams\back-end\Persistencia\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\Hp\Desktop\Work\Studies\ISTEA\SecondYear\Programacion Web\Final exams\back-end\Persistencia\obj\Debug\net5.0\Persistencia.dll
+C:\Users\Hp\Desktop\Work\Studies\ISTEA\SecondYear\Programacion Web\Final exams\back-end\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
+C:\Users\Hp\Desktop\Work\Studies\ISTEA\SecondYear\Programacion Web\Final exams\back-end\Persistencia\obj\Debug\net5.0\Persistencia.pdb
+C:\Users\Hp\Desktop\Work\Studies\ISTEA\SecondYear\Programacion Web\Final exams\back-end\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache
